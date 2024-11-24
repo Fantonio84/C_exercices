@@ -91,7 +91,7 @@ int main()
                 classificao = 'C';
             
         
-
+        //Mostra os dados do array na tela
         printf("Produto %.1f com preco unitario de %.2f reais , teve %.1f vendas com um valor total de vendas de %.2f e classificao %c . \n ", produtos[i][0] ,produtos[i][2],produtos[i][1],produtos[i][3], classificao);
     }
 
